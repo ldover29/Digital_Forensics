@@ -36,3 +36,8 @@ Art, belonging to Krasnovia and currently on display in the National Gallery dur
 **Carry:**
 
 **Somewhat criminally involved individual that shares family ties with Alex.** She is a Krasnovian supporter. Carry is both technologically savvy and an occasional social media user. 
+
+For more details, please refer to the full [Case File](https://github.com/ldover29/Digital_Forensics/blob/main/Case%20File/The_2012_National_Gallery_Scenario.pdf)
+
+---
+
