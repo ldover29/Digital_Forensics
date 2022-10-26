@@ -1,6 +1,6 @@
 # Digital_Forensics
 
-Using digital forensics to crack the case on a very possible National Gallery heist using Autopsy in Kali Linux.
+Using digital forensics to investigate a National Gallery heist using Autopsy in Kali Linux.
 
 ---
 
