@@ -44,3 +44,6 @@ For more details, please refer to the full [Case File](https://github.com/ldover
 ---
 
 The main focus of the investigation will be centered around Tracy. All logs pulled from Tracy's computer, personal phone, and home computer are found in the ```tracy-phone-2012-07-15.final.E01``` file located in the ```/corpus``` directory in Autopsy.
+
+![Details of Tracys Phone](https://github.com/ldover29/Digital_Forensics/blob/a29c4592629ed7ef4d906d8110b8ccee513453b1/Images/Details%20of%20Tracys%20Phone.jpg)
+
