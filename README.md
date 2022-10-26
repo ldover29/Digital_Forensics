@@ -4,14 +4,14 @@ Using digital forensics to crack the case on a very possible National Gallery he
 
 ---
 
-# Summary of the Case File
+## Summary of the Case File
 
 Tracy has been having an ongoing dialog with her brother about stealing
 specific items (Stamps) from the National Gallery. Tracy will have correspondence on her work
 computer, personal phone, and home computer relating to her conspiracy to have some
 valuable items stolen.
 
-# Suspects:
+## Suspects:
 
 **Tracy:**
 
@@ -43,3 +43,4 @@ For more details, please refer to the full [Case File](https://github.com/ldover
 
 ---
 
+The main focus of the investigation will be centered around Tracy. All logs pulled from Tracy's computer, personal phone, and home computer are found in the ```tracy-phone-2012-07-15.final.E01``` file located in the ```/corpus``` directory in Autopsy.
